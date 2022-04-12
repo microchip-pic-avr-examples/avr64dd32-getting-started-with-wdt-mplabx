@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Watchdog Timer (WDT) Using the AVR64DD32 Microcontroller",
         "projectName": "avr64dd32-getting-started-with-wdt-mplabx",
-        "shortDescription": "Code examples for the Watch Dog Timer peripheral",
+        "shortDescription": "Code example for the Watch Dog Timer peripheral",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.0.0"
@@ -41,15 +41,13 @@
             "WDT"
         ],
         "keywords": [
-            "Getting started",
+            "Getting Started",
             "Bare Metal",
             "WDT",
             "Watch Dog Timer",
             "System Module",
             "Module",
-            "Module",
             "Supervisor Module",
-            "Module",
             "Supervisor",
             "Safety"           
         ],
